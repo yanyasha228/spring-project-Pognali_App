@@ -1,8 +1,8 @@
 package net.PognaliApp.services;
 
 import net.PognaliApp.dao.UserDao;
-import net.PognaliApp.models.User;
 import net.PognaliApp.models.Role;
+import net.PognaliApp.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
